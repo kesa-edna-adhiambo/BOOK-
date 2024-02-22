@@ -1,0 +1,67 @@
+#box{
+        border:1px solid;
+        width:50%;
+        margin:0 auto;
+        padding:24px;
+    }
+
+.input{
+    padding:8px 12px;
+    border-radius:5px;
+    border:1px solid;
+}
+button{
+    padding:4px;
+    background-color:black;
+    color:white;
+    width: 500px;
+}
+.logo{
+    padding:12px 16px;
+    width: 50px;
+}
+
+
+#container{
+        border:1px solid;
+        width:50%;
+        margin:0 auto;
+        padding:24px;
+    }
+
+.input{
+    padding:8px 12px;
+    border-radius:5px;
+    border:1px solid;
+}
+button{
+    padding:4px;
+    background-color:black;
+    color:white;
+    width: 500px;
+}
+.logo{
+    padding:12px 16px;
+    width: 50px;
+}
+
+.table, td, th {
+    border-style: solid;
+    border-collapse:collapse;
+    border-color:burlywood;
+
+    
+
+}
+
+    
+
+
+
+
+
+      
+
+
+
+   
